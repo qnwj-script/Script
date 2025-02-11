@@ -2,8 +2,7 @@
 
 脚本库，仅供学习交流！
 
-## BoxJS
-
+## [BoxJS](https://docs.boxjs.app)
 
 
 ## 中国联通(10010)
@@ -13,8 +12,6 @@
 ```
 https://raw.githubusercontent.com/qnwj-script/Script/refs/heads/main/rewrite/10010.qx.conf
 ```
-
-[](quantumult-x:///add-resource?remote-resource=%7B%22rewrite_remote%22%3A%5B%22https%3A%2F%2Fgithub.com%2Fchavyleung%2Fscripts%2Fraw%2Fmaster%2Fbox%2Frewrite%2Fboxjs.rewrite.quanx.conf%2Ctag%3Dboxjs%22%5D%7D)
 
 ## 中国移动(10086)
 
