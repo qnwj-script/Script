@@ -4,6 +4,7 @@
 
 ## [BoxJS](https://docs.boxjs.app)
 
+[点击验证 BoxJS](http://boxjs.com)
 
 ## 中国联通(10010)
 
