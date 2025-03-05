@@ -14,9 +14,9 @@ silent = switch, false, true, tag = 静默模式, desc = 此开关控制插件�
 service = switch, false, true, tag = Scriptable服务模式, desc = 此开关控制插件是否开启Scriptable服务模式, 不用组件者请无视
 
 [Script]
-http-request ^https?:\/\/client\.app\.coc\.10086\.cn\/biz-orange\/[LD]N\/uam(onekey|randcode)login\/autoLogin script-path = https://github.com/ChinaTelecomOperators/ChinaMobile/releases/download/Prerelease-Alpha/10086.js, requires-body = true, tag = 移动获取参数, enable = {enable_capture}
+http-request ^https?:\/\/client\.app\.coc\.10086\.cn\/biz-orange\/[LD]N\/uam(onekey|randcode)login\/autoLogin script-path = https://raw.githubusercontent.com/qnwj-script/Script/refs/heads/main/script/10086.js, requires-body = true, tag = 移动获取参数, enable = {enable_capture}
 
-cron {cron} script-path = https://github.com/ChinaTelecomOperators/ChinaMobile/releases/download/Prerelease-Alpha/10086.js, tag = 移动余量查询, timeout = 60, argument=[{phonenumber},{bark_key},{debug},{silent},{service}]
+cron {cron} script-path = https://raw.githubusercontent.com/qnwj-script/Script/refs/heads/main/script/10086.js, tag = 移动余量查询, timeout = 60, argument=[{phonenumber},{bark_key},{debug},{silent},{service}]
 
 [MitM]
 hostname = client.app.coc.10086.cn
