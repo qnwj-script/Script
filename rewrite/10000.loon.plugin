@@ -1,0 +1,5 @@
+[Script]
+http-request ^https:\/\/e\.dlife\.cn\/user\/loginMiddle tag=电信登录地址, script-path=https://raw.githubusercontent.com/qnwj-script/Script/refs/heads/main/script/10000.js
+
+[MITM]
+hostname = e.dlife.cn

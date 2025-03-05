@@ -9,7 +9,7 @@
       "id": "10010Ck",
       "name": "中国联通",
       "keys": ["@YaYa_10010.cookie"],
-      "author": "@dompling",
+      "author": "@Neo",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/10010.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png"
@@ -33,7 +33,7 @@
         "china_mobile_silent",
         "china_mobile_service"
       ],
-      "author": "ChinaMobileDev",
+      "author": "@Neo",
       "repo": "https://github.com/qnwj-script/Script",
       "scripts": [
         {
@@ -112,10 +112,22 @@
           "desc": ""
         }
       ],
-      "author": "@dompling",
+      "author": "@Neo",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/10000.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10000.png"
+      ]
+    },
+    {
+      "id": "wuhuhu.ChinaBroadnet",
+      "name": "中国广电",
+      "keys": ["@wuhuhu.ChinaBroadnet.url", "@wuhuhu.ChinaBroadnet.access", "@wuhuhu.ChinaBroadnet.body"],
+      "author": "@wuhuhuuuu",
+      "script": "https://raw.githubusercontent.com/qnwj-script/Script/refs/heads/main/script/10099.js",
+      "repo": "https://github.com/qnwj-script/Script",
+      "icons": [
+        "https://github.com/wuhuhuuuu/study/raw/main/Scripts/ChinaBroadnet/ChinaBroadnet.png",
+        "https://github.com/wuhuhuuuu/study/raw/main/Scripts/ChinaBroadnet/ChinaBroadnet.png"
       ]
     },
     {
@@ -172,7 +184,7 @@
           "desc": ""
         }
       ],
-      "author": "@yuheng",
+      "author": "@Neo",
       "repo": "https://github.com/Yuheng0101/X",
       "icons": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/83/d8/8a/83d88a92-5a4d-7a2f-118c-80d795e7a9f6/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/144x144.png",
@@ -231,7 +243,7 @@
           "desc": ""
         }
       ],
-      "author": "@yuheng",
+      "author": "@Neo",
       "repo": "https://github.com/Yuheng0101/X",
       "icons": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/83/d8/8a/83d88a92-5a4d-7a2f-118c-80d795e7a9f6/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/144x144.png",
@@ -318,7 +330,7 @@
           "desc": "填写后区间将无效"
         }
       ],
-      "author": "@yuheng",
+      "author": "@Neo",
       "repo": "https://github.com/Yuheng0101/X",
       "icons": [
         "https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/mi/mini.png",
@@ -338,7 +350,7 @@
         "@gist.backup_black_apps",
         "@gist.backup_white_apps"
       ],
-      "author": "@dompling",
+      "author": "@Neo",
       "icons": [
         "https://raw.githubusercontent.com/Former-Years/icon/master/github-bf.png",
         "https://raw.githubusercontent.com/Former-Years/icon/master/github-bf.png"
@@ -444,7 +456,7 @@
     {
       "id": "GistBackupBlackApp",
       "name": "数据黑名",
-      "author": "@dompling",
+      "author": "@Neo",
       "icons": [
         "https://raw.githubusercontent.com/dompling/Script/master/icon/github-black.jpg",
         "https://raw.githubusercontent.com/dompling/Script/master/icon/github-black.jpg"
@@ -485,7 +497,7 @@
     {
       "id": "GistBackupWhiteApp",
       "name": "数据白名",
-      "author": "@dompling",
+      "author": "@Neo",
       "icons": [
         "https://raw.githubusercontent.com/dompling/Script/master/icon/github-white.jpg",
         "https://raw.githubusercontent.com/dompling/Script/master/icon/github-white.jpg"
@@ -531,14 +543,14 @@
         "https://scriptablejs.gitee.io/store/favicon.ico",
         "https://scriptablejs.gitee.io/store/favicon.ico"
       ],
-      "author": "@dompling",
+      "author": "@Neo",
       "repo": ""
     },
     {
       "id": "SET_TIME",
       "name": "定时任务",
       "keys": ["@SET_TIME.TASK", "@SET_TIME.SUB", "@SET_TIME.CACHE"],
-      "author": "@dompling",
+      "author": "@Neo",
       "settings": [
         {
           "id": "@SET_TIME.SUB",

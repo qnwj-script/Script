@@ -1,0 +1,6 @@
+[MITM]
+hostname = wx.10099.com.cn
+
+[Script]
+http-request https://wx.10099.com.cn/contact-web/api/busi/qryUserInfo script-path=https://raw.githubusercontent.com/qnwj-script/Script/refs/heads/main/script/10099.cookie.js, requires-body=true, timeout=10, tag=ChinaBroadnet.cookie, img-url=https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/fb/1b/53fb1b2e-69bf-1ef0-0147-8bbe8fc9e9c7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg
+cron "3 0 * * *" script-path=https://github.com/wuhuhuuuu/study/raw/main/Scripts/ChinaBroadnet/ChinaBroadnet.js, timeout=10, tag=ChinaBroadnet, img-url=https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/fb/1b/53fb1b2e-69bf-1ef0-0147-8bbe8fc9e9c7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg
